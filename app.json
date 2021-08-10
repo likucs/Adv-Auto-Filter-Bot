@@ -7,8 +7,8 @@
         "Filter",
         "Mongo DB"
     ],
-    "website": "https://github.com/AlbertEinsteinTG",
-    "repository": "https://github.com/AlbertEinsteinTG/Adv-Auto-Filter-Bot",
+    "website": "https://github.com/likucs",
+    "repository": "https://github.com/likucs/Adv-Auto-Filter-Bot",
     "success_url": "https://telegram.dog/mod_apk_premium_cs",
     "env": {
         "APP_ID": {

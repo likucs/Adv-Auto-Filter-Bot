@@ -10,7 +10,7 @@ class Translation(object):
 Just Add Me To Your Group And Channel And Connect Them And See My Power 🌚🌝
 
 For More Details Click Help Button Below..
-@iAmLiKu1
+@iAmLiKu1 👑 
 </i>"""    
     
     HELP_TEXT = """
@@ -43,7 +43,7 @@ For More Details Click Help Button Below..
             
             -> <code>Status</code> - Button Will Shows The Stats Of Your Channel
             
-@iAmLiKu1
+@iAmLiKu1 👑
 """
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot </code>

@@ -47,7 +47,7 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('Owner 👑', url='https://t.me/CrazyBotsz'),
+        InlineKeyboardButton('Owner 👑', url='https://t.me/iAmLiKu1'),
         InlineKeyboardButton('Movies Group', url ='https://t.me/moviesprovider0')
     ],[
         InlineKeyboardButton('Mod Apk Channel', url='https://t.me/mod_apk_premium_cs')

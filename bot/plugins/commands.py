@@ -35,7 +35,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Movies🎬 Channel', url="https://t.me/moviesprovider01"
+                                    'Mod Apk Channel', url="https://t.me/mod_apk_premium_cs"
                                 )
                         ]
                     ]
@@ -48,9 +48,9 @@ async def start(bot, update):
 
     buttons = [[
         InlineKeyboardButton('Owner 👑', url='https://t.me/iAmLiKu1'),
-        InlineKeyboardButton('Movies Group', url ='https://t.me/moviesprovider0')
+        InlineKeyboardButton('Mod Apk Group', url ='https://t.me/mod_apk_premium_cs')
     ],[
-        InlineKeyboardButton('Mod Apk Channel', url='https://t.me/mod_apk_premium_cs')
+        InlineKeyboardButton('Movies Group', url='https://t.me/moviesprovider0')
     ],[
         InlineKeyboardButton('Help ⚙', callback_data="help")
     ]]
